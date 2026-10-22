@@ -8,4 +8,4 @@ resource "aws_instance" "demo1" {
     }
 }
 
-#resource code of ec2
+#hey my ec2 code is added
